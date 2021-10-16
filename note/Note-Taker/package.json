@@ -1,5 +1,4 @@
-{
-  "name": "note-taker",
+{  "name": "note-taker",
   "version": "1.0.0",
   "description": "Express.js Challenge: Note Taker",
   "main": "server.js",
@@ -14,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ortizjavier10/Note-Taker.git"
+    "url": "https://github.com/AdamKMcCoy/note-taker.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/ortizjavier10/Note-Taker/issues"
+    "url": "https://github.com/AdamKMcCoy/note-taker/issues"
   },
-  "homepage": "https://github.com/ortizjavier10/Note-Taker#readme"
+  "homepage": "https://github.com/AdamKMcCoy/note-taker/blob/main/note/Note-Taker/README.md"
 }
